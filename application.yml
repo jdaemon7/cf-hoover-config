@@ -1,7 +1,7 @@
 cf:
   butlers:
-    #eu01: cf-butler-toolsuite.apps.00.cf.eu01.stackit.schwarz
-    demo: http://localhost:8080
+    eu01: cf-butler.apps.00.cf.eu01.stackit.schwarz
+    #demo: http://localhost:8080
   sslValidationSkipped: true
 
 management:
